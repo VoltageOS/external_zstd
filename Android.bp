@@ -80,6 +80,7 @@ cc_library {
         "//external/rsync:__subpackages__",
         "//external/squashfs-tools/squashfs-tools:__subpackages__",
         "//external/stg:__subpackages__",
+        "//frameworks/base/services:__subpackages__",
         "//frameworks/libs/binary_translation/tools:__subpackages__",
         "//packages/modules/adb:__subpackages__",
         "//packages/modules/Connectivity/bpf/loader", // For standalone 'netbpfloader' cli test util
